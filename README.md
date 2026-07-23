@@ -1,4 +1,9 @@
-## Hi there 👋
+## # Hi, I'm Suhani! 
+
+I'm a **16-year-old developer and aspiring entrepreneur from Texas** passionate about using technology to solve problems and make a positive impact on society.
+
+I enjoy **tinkering with hardware, building software, and combining the two to create innovative systems and solutions**. I'm always exploring new technologies, learning new skills, and turning ideas into projects that can make a difference. 
+
 
 <!--
 **SuhaniSharma072/SuhaniSharma072** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
